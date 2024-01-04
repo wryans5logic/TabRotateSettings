@@ -5,47 +5,40 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": false,
   "websites": [
-//1. All Client Monthly and Year to Date Colleciton & deficit
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSectionf32dfdf4759dc122132d?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//2. CONGRATS
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSectionf38254b7986c6798b0c0?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//3. Future Payments
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSectione09abf00378f5815665f?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//4. RPCs
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSection643c322e4eff15408243?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//5. Collections Per Desk 2 Months
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSection99c3b3c0453768358976?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//6. Dialer Dashboard
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSection6bdd41d4bd551dbb22b3?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-//7. Monthly and Yearly Collection Deficit
     {
       "url": "https://app.powerbi.com/groups/me/apps/321198e2-9902-4248-964e-f9fac498c038/reports/794f54e4-fdcc-4216-90d2-ca76ceeb7488/ReportSectiona3a3d2024a142c214a6e?ctid=68408868-20d6-456a-beec-5bc3148fbdd9&experience=power-bi",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
-    },
+    }
   ]
 }
