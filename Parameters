@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://app.powerbi.com/reportEmbed?reportId=ea1f9153-53cc-4ac0-9e94-c932c5520e76&appId=321198e2-9902-4248-964e-f9fac498c038&autoAuth=true&ctid=68408868-20d6-456a-beec-5bc3148fbdd&PageName=ReportSectionf32dfdf4759dc122132d&navContentPaneEnabled=false&filterPaneEnabled=False",
+      "url": "https://app.powerbi.com/reportEmbed?reportId=ea1f9153-53cc-4ac0-9e94-c932c5520e76&appId=321198e2-9902-4248-964e-f9fac498c038&autoAuth=true&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&PageName=ReportSectionf32dfdf4759dc122132d&navContentPaneEnabled=false&filterPaneEnabled=False",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
